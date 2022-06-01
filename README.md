@@ -1,0 +1,2 @@
+# zuridjango
+Project submission
